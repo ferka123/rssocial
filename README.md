@@ -13,6 +13,10 @@ Team project by [ferka123](https://github.com/ferka123), [Jik789](https://github
 - [Mongoose ODM](https://mongoosejs.com/)
 - [Material UI](https://mui.com/)
 
+## Api documentation
+[SwaggerHub](https://app.swaggerhub.com/apis-docs/ferka123/rssocial/1.0.0)
+
+
 ## Configure environment variables
 
 - SERVER_API_URL
